@@ -4,7 +4,7 @@ import React from "react";
 export const ServiceForBusinessSection = () => {
   return (
     <div className="">
-      <div className="mx-auto max-w-[1540px] py-10 lg:py-20  px-[20px] lg:px-[65px]  grid grid-cols-1 ">
+      <div className="mx-auto max-w-[1540px] pt-10 pb-10 lg:pb-20  px-5 lg:px-[65px]  grid grid-cols-1 ">
         <div className="grid grid-cols-1 lg:grid-cols-2 lg:border-b lg:border-b-[#CDB7B7]">
           <div className="flex flex-col gap-6 py-5 lg:p-10 lg:border-r lg:border-r-[#CDB7B7]">
             <div className="flex items-center gap-8 ">
