@@ -66,9 +66,9 @@ const Header = ({ headerStyle }: { headerStyle?: string }) => {
               <button className="hidden lg:block rounded-[50px]  py-4 px-6  bg-[#903839] text-[#fff]">
                 Tư vấn miễn phí
               </button>
-              <div className=" block lg:hidden" onClick={() => toggleMenu()}>
+              {/* <div className=" block lg:hidden" onClick={() => toggleMenu()}>
                 <MenuIcon />
-              </div>
+              </div> */}
             </div>
           </div>
         </nav>
